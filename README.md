@@ -18,7 +18,10 @@ https://www.eunbicho.me/alzguard
 
 ## Information Architecture
 
-![Information Architecture](information-architecture.png)
+![Information Architecture](information-architecture-01.png)
+
+![Information Architecture](information-architecture-02.png)
+
 
 ---
 
