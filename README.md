@@ -4,7 +4,9 @@
 
 <h1 align="center">AlzGuard</h1>
 
-<body aligh="center">🔗 **Detailed case study:**  https://www.eunbicho.me/alzguard</body>
+<p align="center">
+  🔗 <a href="https://www.eunbicho.me/alzguard">Detailed case study</a>
+</p>
 
 Digital Cognitive Health Assessment and Training Platform.
 
