@@ -1,4 +1,8 @@
-# AlzGuard
+<p align="center">
+  <img src="./logo.svg" width="120"/>
+</p>
+
+<h1 align="center">AlzGuard</h1>
 
 Digital Cognitive Health Assessment and Training Platform.
 
