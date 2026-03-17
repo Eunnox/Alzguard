@@ -4,13 +4,12 @@
 
 <h1 align="center">AlzGuard</h1>
 
+<h2 aligh="center">🔗 **Detailed case study:**  https://www.eunbicho.me/alzguard</h2>
+
 Digital Cognitive Health Assessment and Training Platform.
 
 AlzGuard is an interactive digital health system designed to support cognitive health monitoring and training.  
 The project explores how interactive systems can help assess cognitive states and provide engaging training experiences.
-
-🔗 **Detailed case study:**  
-https://www.eunbicho.me/alzguard
 
 ---
 
